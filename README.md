@@ -1,5 +1,5 @@
 # Master-Thesis-2023
-This repository was created for the purpose of online storage of the R-code I reffered to in my Master Thesis, which topic was Mathematical modeling of yield curve dependence using copula functions. In the R folder one can find two functions used in the research. More information provided in the comment at the beginning of each R file.
+This repository was created for the purpose of online storage of the R-code I refer to in my Master Thesis, which topic was Mathematical modeling of yield curve dependence using copula functions. In the R folder one can find two functions used in the research. More information provided in the comment at the beginning of each R file.
 
 <b> Note: </b> Installation using devtools R package is not possible at the moment.
 
